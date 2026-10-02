@@ -1,7 +1,7 @@
 <table align="center"><tr>
 <td>
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Hi%252C%2520I%27m%2520codenext-dot.%2520Welcome%2520here.%3BBuilding%2520ideas%252C%2520one%2520line%2520at%2520a%2520time.%3BLearning%252C%2520coding%252C%2520and%2520creating%2520every%2520day.&font=VT323&theme=matrix&background=transparent&cursor=block&cursorColor=33ff33)](https://github.com/dhanushnehru/ScribeSVG)
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=Hi%2C+I%27m+CodeNext-dot%3BWelcome+to+my+project+space%3BI+hope+you%27re+interested%21&font=VT323&theme=matrix&background=transparent&cursor=block&cursorColor=33ff33)](https://github.com/dhanushnehru/ScribeSVG)
 
 </td>
 <td>
